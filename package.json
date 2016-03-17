@@ -1,0 +1,24 @@
+{
+  "name": "node-origin",
+  "version": "1.0.0",
+  "description": "sample node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmajorov/node-origin.git"
+  },
+  "keywords": [
+    "origin",
+    "node"
+  ],
+  "author": "Nikolaj Majorov",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nmajorov/node-origin/issues"
+  },
+  "homepage": "https://github.com/nmajorov/node-origin#readme"
+}

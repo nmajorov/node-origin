@@ -6,7 +6,7 @@ var handleRequest = function(request, response) {
   console.log("get request: " + date.toLocaleString());
   response.writeHead(200);
   var date = new Date();
-  response.end("Hello from RedHat:  " + date.toLocaleString());
+  response.end("Hello from RedHat 2019 :  " + date.toLocaleString());
 }
 
 console.log("start server on port: " + port);

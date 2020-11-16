@@ -1,0 +1,8 @@
+---
+apiVersion: build.rhone.io/v2
+description: simple openshift nodejs project
+name: nodejs-origin
+version: 1.0.SNAPSHOT
+language: node_js
+interpreter-version: lts-alpine
+
